@@ -1,0 +1,12 @@
+Normal: 
+ID      CANT    PRECIO  MIN_REP STATUS
+7       85      $120.30 10      O
+1       100     $35.80  75      O
+12      45      $100.00 120     P
+
+Actualizado:
+ID      CANT    PRECIO  MIN_REP STATUS
+7       75      $120.30 10      O
+1       80      $35.80  75      O
+12      45      $100.00 120     P
+

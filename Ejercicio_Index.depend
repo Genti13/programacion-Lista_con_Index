@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1653084390 source:e:\unlam\programacion & tcp\programacion\ejercicio_index\main.c
+	<stdio.h>
+	<stdlib.h>
+	"archivos.h"
+	"funciones.h"
+
+1653081496 e:\unlam\programacion & tcp\programacion\ejercicio_index\archivos.h
+	<stdio.h>
+	"tipos.h"
+
+1652900314 e:\unlam\programacion & tcp\programacion\ejercicio_index\tipos.h
+
+1653086676 source:e:\unlam\programacion & tcp\programacion\ejercicio_index\archivos.c
+	"funciones.h"
+	"tipos.h"
+	"archivos.h"
+
+1653082820 e:\unlam\programacion & tcp\programacion\ejercicio_index\funciones.h
+	<stdio.h>
+	"tipos.h"
+	"lista.h"
+
+1653086750 source:e:\unlam\programacion & tcp\programacion\ejercicio_index\funciones.c
+	"funciones.h"
+	"tipos.h"
+	"lista.h"
+	"archivos.h"
+
+1653082550 e:\unlam\programacion & tcp\programacion\ejercicio_index\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1653082600 source:e:\unlam\programacion & tcp\programacion\ejercicio_index\lista.c
+	"lista.h"
+
